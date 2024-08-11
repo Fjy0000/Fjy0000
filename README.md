@@ -1,5 +1,4 @@
-Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mark Yi
-===============================================================================================================================
+<h1 align="left"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=1000&color=2AF763&width=435&lines=Hi+there!+;I'm+Mark+Yi" alt="Typing SVG" /></h1>
 
 Software Developer
 ------------------
@@ -32,10 +31,12 @@ I’m a passionate developer with 5 years of coding experience. I've worked in c
   </picture>
 </div>
 
+<br/>
+
 <b>My GitHub Stats</b>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fjy0000&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="Fjy0000's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fjy0000&stroke=ffffff&background=181824&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Fjy0000&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="Fjy0000's GitHub stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Fjy0000&stroke=ffffff&background=181824&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fjy0000&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </div>
