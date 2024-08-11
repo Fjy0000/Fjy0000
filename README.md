@@ -1,4 +1,4 @@
-Hi There![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mark Yi
+Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mark Yi
 ===============================================================================================================================
 
 Software Developer
@@ -25,7 +25,11 @@ I’m a passionate developer with 5 years of coding experience. I've worked in c
 
 <b>My Contributions</b>
 <div align="center">
-  <img alt="snake contributions" src="https://raw.githubusercontent.com/Fjy0000/Fjy0000/output/github-contribution-grid-snake.svg" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fjy0000/Fjy0000/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fjy0000/Fjy0000/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fjy0000/Fjy0000/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <b>My GitHub Stats</b>
