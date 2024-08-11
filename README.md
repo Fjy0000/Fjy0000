@@ -25,7 +25,11 @@ I’m a passionate developer with 5 years of coding experience. I've worked in c
 
 <b>My Contributions</b>
 <div align="center">
-  <img src="" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </div>
 
 <b>My GitHub Stats</b>
