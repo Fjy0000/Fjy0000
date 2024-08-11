@@ -25,7 +25,7 @@ I’m a passionate developer with 5 years of coding experience. I've worked in c
 
 <b>My Contributions</b>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Fjy0000/Fjy0000/output/github-contribution-grid-snake.svg" />
+  <img alt="snake contributions" src="https://raw.githubusercontent.com/Fjy0000/Fjy0000/output/github-contribution-grid-snake.svg" />
 </div>
 
 <b>My GitHub Stats</b>
