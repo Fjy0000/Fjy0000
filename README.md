@@ -1,6 +1,6 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=Fjy0000&icon=0&color=1" />
 
-<h1 align="left"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=70&pause=1000&color=2AF763&width=500&height=100&lines=Hi+there!+;I'm+Mark+Yi" alt="Typing SVG" /></h1>
+<h1 align="left"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=70&pause=1000&color=2AF763&width=500&height=100&lines=Hi+there!+%F0%9F%91%8B+;I'm+Mark+Yi" alt="Typing SVG" /></h1>
 
 I’m a passionate developer with 5 years of coding experience. I've worked in customer support and mobile application front-end development, but my true passion lies in exploring backend development. I enjoy solving complex problems and building scalable solutions. Check out my repositories to see some of the projects I’ve been working on!
 
