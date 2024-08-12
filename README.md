@@ -8,7 +8,7 @@ I’m a passionate developer with 5 years of coding experience. I've worked in c
 * ✉️  You can contact me at [fongj8465@gmail.com](mailto:fongj8465@gmail.com)
 * 🧠  I'm learning Python, Spring Boot, and React.JS
 
-<h1 align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=1BF74C&background=FFFFFF00&width=500&height=30&lines=%F0%9F%92%BB+Skills....." alt="Typing SVG" /></h1>
+<h1 align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=5000&color=1BF74C&background=FFFFFF00&width=500&height=30&lines=%F0%9F%92%BB+Skills....." alt="Typing SVG" /></h1>
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -34,7 +34,7 @@ I’m a passionate developer with 5 years of coding experience. I've worked in c
 
 <br/>
 
-<h1 align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=1BF74C&background=FFFFFF00&width=500&height=30&lines=%F0%9F%93%8A+My+Github+Stats...." alt="Typing SVG" /></h1>
+<h1 align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=1BF74C&background=FFFFFF00&width=500&height=30&lines=%F0%9F%93%8A+My+Github+Stats...." alt="Typing SVG" /></h1>
 
 <div align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Fjy0000&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
