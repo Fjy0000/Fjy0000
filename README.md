@@ -1,14 +1,28 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=Fjy0000&icon=0&color=1" />
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<h1 align="left"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=70&pause=1000&color=2AF763&width=500&height=100&lines=Hi+there!+%F0%9F%91%8B+;I'm+Mark+Yi" alt="Typing SVG" /></h1>
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&height=20&lines=Hi+there!;I'm+Mark+Yi" alt="Typing SVG" />
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
 
-I’m a passionate developer with 5 years of coding experience. I've worked in customer support and mobile application front-end development, but my true passion lies in exploring backend development. I enjoy solving complex problems and building scalable solutions. Check out my repositories to see some of the projects I’ve been working on!
+<!--Start Intro-->               
+<p align="left">I’m a passionate developer with 5 years of coding experience. I've worked in customer support and mobile application front-end development, but my true passion lies in exploring backend development. I enjoy solving complex problems and building scalable solutions. Check out my repositories to see some of the projects I’ve been working on!</p>
 
-* 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [fongj8465@gmail.com](mailto:fongj8465@gmail.com)
-* 🧠  I'm learning Python, Spring Boot, and React.JS
+- 🌍 I'm based in Malaysia
+- 👩🏻‍🎓 Studied Software Systems Development at the University of TARUMT, Kuala Lumpur
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+<!--End Intro-->
 
-<h1 align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=5100&color=1BF74C&background=FFFFFF00&width=500&height=30&lines=%F0%9F%92%BB+Skills...." alt="Typing SVG" /></h1>
+<p align="left">
+  <img src="https://visitcount.itsvg.in/api?id=Fjy0000&icon=0&color=1" />
+</p>
+
+
+<!--Start langauge and tools-->
+<h1 align="left">Language and Tools</h1>
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -31,10 +45,12 @@ I’m a passionate developer with 5 years of coding experience. I've worked in c
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
+<!--End language and tools-->
 
 <br/>
 
-<h1 align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5100&color=1BF74C&background=FFFFFF00&width=500&height=30&lines=%F0%9F%93%8A+My+Github+Stats...." alt="Typing SVG" /></h1>
+<!--Start github state-->
+<h1 align="left">📊Github State & Contribution Graph📈</h1>
 
 <div align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Fjy0000&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
@@ -48,5 +64,11 @@ I’m a passionate developer with 5 years of coding experience. I've worked in c
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
+<!--End github state-->
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 
