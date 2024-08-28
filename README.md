@@ -29,7 +29,7 @@
 
 <!--Start langauge and tools-->
 
-<h1 align="left">💻 Tech Stack:</h1>
+<h3 align="left">💻 Tech Stack:</h3>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
@@ -55,20 +55,26 @@
 <br/>
 
 <!--Start github state-->
-<h1 align="left">📊Github State & Contribution Graph📈</h1>
 
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Fjy0000&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fjy0000&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  <br/>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fjy0000/Fjy0000/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fjy0000/Fjy0000/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fjy0000/Fjy0000/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+<h3 align="left">⚙️ GitHub Analytics </h3>
+<table align="center" style="width:100">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Fjy0000&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fjy0000&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+  <tr>
+     <td colspan="2">
+       <p align="center">
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fjy0000&theme=radical&hide_border=false" />
+       </p>
+    </td>
+  </tr>
+</table>
+
 <!--End github state-->
 
 <!--Footer--> 
