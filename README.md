@@ -13,7 +13,7 @@
 </div>
 
 <!--Start Intro-->               
-<p align="left">I’m a passionate developer with 5 years of coding experience. I've worked in customer support and mobile application front-end development, but my true passion lies in exploring backend development. I enjoy solving complex problems and building scalable solutions. Check out my repositories to see some of the projects I’ve been working on!</p>
+<p align="left"></p>
 
 - 🌍 I'm based in Malaysia
 - 👩🏻‍🎓 Studied Software Systems Development at the University of TARUMT, Kuala Lumpur
