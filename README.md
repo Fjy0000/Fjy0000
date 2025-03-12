@@ -20,7 +20,7 @@
 - 🔭 I'm currently seeking a position as a backend, frontend, or full-stack developer
 - 🌱 I’m currently learning Spring Boot Framework and React Framework
 - 💬 Ask me about Java, SQL, HTML, CSS, Javascript, and PHP
-- ⚡ Fun fact: When I’m not busy mastering the Spring Boot framework or exploring new coding languages, you’ll find me either out in nature or diving into a good movie.
+- ⚡ Fun fact: When I’m not busy exploring new coding languages, you’ll find me either out in nature or diving into a good movie.
 <!--End Intro-->
 
 <p align="left">
