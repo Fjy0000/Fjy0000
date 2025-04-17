@@ -23,10 +23,6 @@
 - ⚡ Fun fact: When I’m not busy exploring new coding languages, you’ll find me either out in nature or diving into a good movie.
 <!--End Intro-->
 
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=Fjy0000&icon=0&color=1" />
-</p>
-
 <!--Start langauge and tools-->
 
 <h3 align="left">💻 Tech Stack:</h3>
